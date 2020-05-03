@@ -1,0 +1,20 @@
+CppCon 2015: Andrei Alexandrescu ''std::allocator...'' - YouTube
+CppCon 2019: Victor Ciura ''A Short Life span<> For a Regular Mess'' - YouTube
+CppCon 2017: Kate Gregory ''10 Core Guidelines You Need to Start Using Now'' - YouTube
+CppCon 2016: Cheinan Marks ''I Just Wanted a Random Integer!''; - YouTube
+CppCon 2015: Andrei Alexandrescu ''Declarative Control Flow''; - YouTube
+CppCon 2019: Matt Godbolt ''Path Tracing Three Ways: A Study of C++ Style'' - YouTube
+Core C++ 2019 :: Jason Turner :: The Best Parts of C++ - YouTube
+CppCon 2017: Ben Deane & Jason Turner ''constexpr ALL the Things!'' - YouTube
+Greatest Common Measure: The Last 2500 Years - YouTube
+Mathieu Ropert ''This Videogame Programmer Used the STL and You Will Never Guess What Happened Next'' - YouTube
+C++Now 2018: You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance - YouTube
+CppCon 2017: Matt Kulukundis ''Designing a Fast, Efficient, Cache-friendly Hash Table, Step by Step'' - YouTube
+CppCon 2019: Arthur O'Dwyer ''Back to Basics: Lambdas from Scratch'' - YouTube
+C++Now 2018: Rong Lu ''C++ Development with Visual Studio Code'' - YouTube
+CppCon 2019: Arthur O'Dwyer ''Back to Basics: Type Erasure'' - YouTube
+Java Design Patterns - step by step - made easy for Beginners.
+CppCon 2019: Arthur O'Dwyer ''Back to Basics: Smart Pointers'' - YouTube
+CppCon 2019: Arthur O'Dwyer ''Back to Basics: RAII and the Rule of Zero'' - YouTube
+CppCon 2019: Chandler Carruth ''There Are No Zero-cost Abstractions'' - YouTube
+Uncle Bob SOLID principles - YouTube
