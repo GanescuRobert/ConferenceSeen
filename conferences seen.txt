@@ -18,3 +18,5 @@ CppCon 2019: Arthur O'Dwyer ''Back to Basics: Smart Pointers'' - YouTube
 CppCon 2019: Arthur O'Dwyer ''Back to Basics: RAII and the Rule of Zero'' - YouTube
 CppCon 2019: Chandler Carruth ''There Are No Zero-cost Abstractions'' - YouTube
 Uncle Bob SOLID principles - YouTube
+CppCon 2019: Klaus Iglberger ''Back to Basics: Move Semantics (part 1 of 2)'' - YouTube
+CppCon 2019: Klaus Iglberger ''Back to Basics: Move Semantics (part 2 of 2)'' - YouTube
